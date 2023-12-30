@@ -4,32 +4,32 @@
 
 <li><b>Microsoft Azure</b></li>
   <ul>
-  <li><a href = "https://github.com/ColtonTrauCC/azure-portal">Basics of Azure Portal</a></li>
-  <li><a href = "https://github.com/ColtonTrauCC/vm-network">Creating a Virtual Machine Network in Azure and Inspecting Network Protocol</a></li>
+  <li><a href = "">Basics of Azure Portal</a></li>
+  <li><a href = "">Creating a Virtual Machine Network in Azure and Inspecting Network Protocol</a></li>
   </ul>
   <br>
 <li><b>Virtual Private Networks (VPN)</b></li>
 <ul>
-  <li><a href = "https://github.com/ColtonTrauCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
+  <li><a href = "">Understanding and Installing Virtual Private Networks</a></li>
 </ul>
 <br>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
   <ul>
-  <li><a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
-  <li><a href = "https://github.com/ColtonTrauCC/post-install-config">osTicket: Post-Installation Configuration</a></li>
-  <li><a href = "https://github.com/ColtonTrauCC/ticket-lifecycle">osTicket: Ticket Lifecycle Examples</a></li>
+  <li><a href = "">osTicket: Prerequisites and Installation</a></li>
+  <li><a href = "">osTicket: Post-Installation Configuration</a></li>
+  <li><a href = "">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
   <br>
 <li><b>Acitve Directory</b>
 </li>
   <ul>
-  <li><a href = "https://github.com/ColtonTrauCC/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
-  <li><a href = "https://github.com/ColtonTrauCC/dns">Understanding & Building Intuition for DNS</a></li>
-  <li><a href = "https://github.com/ColtonTrauCC/network-fileshare">Network Fileshare and Permissions in Active Directory</a></li>
+  <li><a href = "">Installing and Configuring Active Directory within Azure VMs</a></li>
+  <li><a href = "">Understanding & Building Intuition for DNS</a></li>
+  <li><a href = "">Network Fileshare and Permissions in Active Directory</a></li>
   </ul>
 
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: 
