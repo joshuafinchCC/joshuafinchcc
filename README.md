@@ -4,7 +4,7 @@
 
 <li><b>Microsoft Azure</b></li>
   <ul>
-  <li><a href = "">Basics of Azure Portal</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/azure-portal/tree/main">Basics of Azure Portal</a></li>
   <li><a href = "">Creating a Virtual Machine Network in Azure and Inspecting Network Protocol</a></li>
   </ul>
   <br>
