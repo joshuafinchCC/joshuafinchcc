@@ -2,12 +2,22 @@
 
 <h2>👨‍💻 Guides and Projects within Information Tech:</h2>
 
+
+ <p align="left">
+  <img width="300" height="150" src="https://github.com/joshuafinchCC/VM-VN-RDC/assets/155266044/945ededb-aa45-40b7-a2d7-c44243483fc8">
+</p>
+
 <li><b>Microsoft Azure</b></li>
   <ul>
   <li><a href = "https://github.com/joshuafinchCC/azure-portal/tree/main">Basics of Azure Portal and Resource Group Creation</a></li>
   <li><a href = "https://github.com/joshuafinchCC/VM-VN-RDC">Virtual Machines, Virtual Networks, and Remote Desktop Connections</a></li>
   </ul>
   <br>
+
+ <p align="left">
+  <img width="300" height="150" src="https://github.com/joshuafinchCC/joshuafinchcc/assets/155266044/72dd271b-6f67-42f2-958c-5ae9b927b6e9">
+</p>
+
 <li><b>Virtual Private Networks (VPN)</b></li>
 <ul>
   <li><a href = "https://github.com/joshuafinchCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
