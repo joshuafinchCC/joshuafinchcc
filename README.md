@@ -4,7 +4,7 @@
 
 
  <p align="left">
-  <img width="300" height="150" src="https://github.com/joshuafinchCC/VM-VN-RDC/assets/155266044/945ededb-aa45-40b7-a2d7-c44243483fc8">
+  <img width="150" height="150" src="https://github.com/joshuafinchCC/joshuafinchcc/assets/155266044/3274e44f-b1fd-477d-b7ae-db6d45f23c64">
 </p>
 
 <li><b>Microsoft Azure</b></li>
@@ -23,6 +23,11 @@
   <li><a href = "https://github.com/joshuafinchCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
 </ul>
 <br>
+
+<p align="left">
+  <img width="300" height="150" src="https://camo.githubusercontent.com/8affb964fadfc34bfb29e7b9a5a8a8d85814dbd49fdcbb325535c8397e829806/68747470733a2f2f692e696d6775722e636f6d2f436c7a6a3758732e706e67">
+</p>
+
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
   <ul>
   <li><a href = "https://github.com/joshuafinchCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
@@ -30,6 +35,11 @@
   <li><a href = "">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
   <br>
+
+<p align="left">
+  <img width="300" height="150" src="https://github.com/joshuafinchCC/joshuafinchcc/assets/155266044/8a495ae0-954c-4655-b330-4547b88784ba">
+</p>
+
 <li><b>Acitve Directory</b>
 </li>
   <ul>
