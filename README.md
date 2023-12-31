@@ -15,8 +15,8 @@
 <br>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
   <ul>
-  <li><a href = "">osTicket: Prerequisites and Installation</a></li>
-  <li><a href = "">osTicket: Post-Installation Configuration</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/osticket-installation">osTicket: Post-Installation Configuration</a></li>
   <li><a href = "">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
   <br>
