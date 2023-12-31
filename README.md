@@ -10,7 +10,7 @@
   <br>
 <li><b>Virtual Private Networks (VPN)</b></li>
 <ul>
-  <li><a href = "https://github.com/joshuafinchCC/vpn/blob/main/README.md">Understanding and Installing Virtual Private Networks</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
 </ul>
 <br>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
