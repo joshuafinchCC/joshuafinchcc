@@ -1,7 +1,7 @@
 <h1>Hi, I'm Joshua, an aspiring <a href="https://linkedin.com">IT Professional</a></h1>
 
 <h2>👨‍💻 Guides and Projects within Information Tech:</h2>
-<li>These guides will take you anywhere from setting up your first resource group in Microsfot Azure, to step by step tutorials on setting up a virtual machine as a DNS server for your own domain!</li>
+These guides will take you anywhere from setting up your first resource group in Microsfot Azure, to step by step tutorials on setting up a virtual machine as a DNS server for your own domain!
 
  <p align="left">
   <img width="150" height="150" src="https://github.com/joshuafinchCC/joshuafinchcc/assets/155266044/3274e44f-b1fd-477d-b7ae-db6d45f23c64">
