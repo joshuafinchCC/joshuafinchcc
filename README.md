@@ -5,7 +5,7 @@
 <li><b>Microsoft Azure</b></li>
   <ul>
   <li><a href = "https://github.com/joshuafinchCC/azure-portal/tree/main">Basics of Azure Portal and Resource Group Creation</a></li>
-  <li><a href = "">Virtual Machines, Virtual Networks, and Remote Desktop Connections</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/VM-VN-RDC">Virtual Machines, Virtual Networks, and Remote Desktop Connections</a></li>
   </ul>
   <br>
 <li><b>Virtual Private Networks (VPN)</b></li>
