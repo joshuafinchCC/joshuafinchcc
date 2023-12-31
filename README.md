@@ -32,7 +32,7 @@ These guides will take you anywhere from setting up your first resource group in
   <ul>
   <li><a href = "https://github.com/joshuafinchCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
   <li><a href = "https://github.com/joshuafinchCC/osticket-installation">osTicket: Post-Installation Configuration</a></li>
-  <li><a href = "">osTicket: Ticket Lifecycle Examples</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/osticket-examples">osTicket: Ticket Lifecycle Examples</a></li>
   </ul>
   <br>
 
