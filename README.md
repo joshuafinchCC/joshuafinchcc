@@ -44,7 +44,7 @@ These guides will take you anywhere from setting up your first resource group in
 </li>
   <ul>
   <li><a href = "https://github.com/joshuafinchCC/Activedirectory-config">Installing Active Directory within Azure Virtual Machines</a></li>
-  <li><a href = "">Understanding & Building Intuition for DNS</a></li>
+  <li><a href = "https://github.com/joshuafinchCC/DNS">Understanding & Building Intuition for DNS</a></li>
   <li><a href = "">Network Fileshare and Permissions in Active Directory</a></li>
   </ul>
 
